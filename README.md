@@ -1,0 +1,2 @@
+# NBCCV
+NadekoBotCommandChineseVersion
